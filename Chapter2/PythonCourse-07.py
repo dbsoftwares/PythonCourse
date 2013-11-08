@@ -3,17 +3,15 @@
 # web: ptoth.github.io
 # github: github.com/ptoth
 
-## Importing the sys module
-import sys
-import math
+## Creating module
+# import myModule
+import myModule
 
-print('Your PYTHONPATH is:\n')
-# referencing 'path' from the imported 'sys' module
-for element in sys.path:
-    print(element)
-# call sqrt from undirect module
-print('\nSquare root of 16 is:') 
-print(math.sqrt(16))
+# invokint method from module
+myModule.sayHello()
+print ("\n myModule Version:")
 
+# print module's version
+print(myModule.__version__)
 
-print("\nCourse-06 End")
+print("\nCourse-08 End")
