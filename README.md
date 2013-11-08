@@ -14,6 +14,7 @@
 </ul>
 <h3>Chapter 2:</h3>
 <ul>
-<li></li>
+<li>List structure</li>
+
 </ul>
 <p>
