@@ -3,15 +3,8 @@
 # web: ptoth.github.io
 # github: github.com/ptoth
 
-## Creating module
-# import sys module
-import sys
-import myModule
+##Packages
 
-# print module's version
-print("Version of sys module")
-print(sys.version)
-print("Version of myModule")
-print(myModule.__version__)
 
-print("\nCourse-08 End")
+
+print("\nCourse-09 End")
