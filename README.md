@@ -9,5 +9,11 @@
 <li>Basic functions and parameters</li>
 <li>Local and global variables</li>
 <li>Degault Argument values, return statement</li>
+<li>Importing modules
+<li>Writing your first module and invoke its method<li>
+</ul>
+<h3>Chapter 2:</h3>
+<ul>
+<li></li>
 </ul>
 <p>
